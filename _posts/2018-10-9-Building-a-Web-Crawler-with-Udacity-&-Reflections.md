@@ -1,5 +1,7 @@
 ---
 layout: post
-title: Building a Web Crawler with Udacity & Reflections
+title: Predicting Boston Housing Prices with Udacity Machine Learning Fundamentals
 ---
+Predicting Boston Housing Prices: Exploring data, training and testing models, identifying potential problems such as bias, and model improvement. 
+https://github.com/lindswarne/Projects-to-share/blob/master/boston_housing.ipynb
 
