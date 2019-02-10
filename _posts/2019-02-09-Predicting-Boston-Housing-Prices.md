@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Predicting Boston Housing Prices with Udacity Machine Learning Fundamentals!"
+title:  "Predicting Boston Housing Prices with Udacity Machine Learning Fundamentals"
 ---
 <b>Project Overview</b>
 
