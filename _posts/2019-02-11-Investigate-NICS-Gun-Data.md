@@ -16,6 +16,5 @@ In this project, you will analyze a dataset and then communicate your findings a
 <li>Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code</li>
 <li>Be familiar with pandas' Series and DataFrame objects, which let you access your data more conveniently</li>
 <li>Know how to use Matplotlib to produce plots showing your findings</li>
-<br>
-</br>
-<a href="https://github.com/lindswarne/Projects-to-share/blob/master/Investigate_NICS_Gun_Data.ipynby">Investigate NICS Gun Data</a> </li>
+
+<a href="https://github.com/lindswarne/Projects-to-share/blob/master/Investigate_NICS_Gun_Data.ipynby">Investigate NICS Gun Data</a> 
